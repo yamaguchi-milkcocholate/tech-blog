@@ -16,6 +16,8 @@ hugo new site site
 
 - [このテーマ](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)にする
 - [ここ](https://themes.gohugo.io/tags/blog/)から選べる
+- サンプルサイトは[ここ](https://adityatelange.github.io/hugo-PaperMod/)
+- サンプルサイトのソースコードは[ここ](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
 
 # 記事作成手順
 

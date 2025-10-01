@@ -16,6 +16,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/fa/"
                 />

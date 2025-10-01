@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2025-10-01T07:22:10+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/fa/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tech-blog/categories/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/tags/css/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/tags/html/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/tags/markdown/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/posts/my-first-post/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/posts/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/series/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/categories/syntax/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/tags/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/categories/themes/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/tags/themes/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-blog/series/themes-guide/</loc>
+    <lastmod>2025-10-01T07:22:10+09:00</lastmod>
+  </url>
+</urlset>
