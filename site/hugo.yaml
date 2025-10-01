@@ -1,5 +1,6 @@
 baseURL: https://yamaguchi-milkcocholate.github.io/tech-blog/
 languageCode: ja
+defaultContentLanguage: jp
 title: teppyama - tech blog
 theme: ["PaperMod"]
 
@@ -21,8 +22,8 @@ pagination:
   pagerSize: 5
 
 languages:
-  en:
-    languageName: ":en:"
+  jp:
+    languageName: ":jp:"
     weight: 1
     taxonomies:
       category: categories
@@ -39,8 +40,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-  jp:
-    languageName: ":jp:"
+  en:
+    languageName: "English"
     weight: 1
     taxonomies:
       category: categories
