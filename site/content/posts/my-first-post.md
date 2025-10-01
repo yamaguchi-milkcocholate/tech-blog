@@ -12,7 +12,7 @@ cover:
   caption: "tmp"
 ShowToc: true
 TocOpen: true
-draft: true
+draft: false
 ---
 
 こんにちは！
