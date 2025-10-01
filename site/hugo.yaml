@@ -138,7 +138,7 @@ params:
 
   assets:
     # disableHLJS: true
-    favicon: "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://discourse.gohugo.io/t/how-to-add-favicon/34229&size=16"
+    favicon: "https://img.icons8.com/?size=100&id=FZolRSLowtWz&format=png&color=000000"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"

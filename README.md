@@ -19,6 +19,11 @@ hugo new site site
 - サンプルサイトは[ここ](https://adityatelange.github.io/hugo-PaperMod/)
 - サンプルサイトのソースコードは[ここ](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
 
+favicon を設定
+
+- [icons8](https://icons8.jp/icons/set/favicon-%E3%83%97%E3%83%AA%E3%83%B3)で探す
+- 「コピー」で URL をコピーできるので、それを hugo.yaml に記入する
+
 # 記事作成手順
 
 ```shell
