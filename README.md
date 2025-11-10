@@ -30,6 +30,8 @@ favicon を設定
 cd site
 # ファイル作成
 hugo new content content/posts/my-first-post.md
+# ローカルで記事を確認
+hugo server --buildDrafts --bind 127.0.0.1 --baseURL http://localhost
 ```
 
 # テンプレート編集

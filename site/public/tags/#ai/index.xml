@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>#AI on teppyama - tech blog</title>
+    <link>http://localhost:1313/tags/%23ai/</link>
+    <description>Recent content in #AI on teppyama - tech blog</description>
+    <image>
+      <title>teppyama - tech blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>jp</language>
+    <lastBuildDate>Sun, 09 Nov 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%23ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI と協働でモデリング業務を半自動化した話</title>
+      <link>http://localhost:1313/posts/ai-%E3%81%A8%E5%8D%94%E5%83%8D%E3%81%A7%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E6%A5%AD%E5%8B%99%E3%82%92%E5%8D%8A%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1/</link>
+      <pubDate>Sun, 09 Nov 2025 09:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/ai-%E3%81%A8%E5%8D%94%E5%83%8D%E3%81%A7%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E6%A5%AD%E5%8B%99%E3%82%92%E5%8D%8A%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1/</guid>
+      <description>モデリングの単純作業を AI に任せてモデリング業務を半自動化した話</description>
+    </item>
+  </channel>
+</rss>
