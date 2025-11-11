@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.150.1</generator>
     <language>jp</language>
-    <lastBuildDate>Sun, 09 Nov 2025 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:13:29 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>チームだと損している気分になるのはなぜだろう</title>
+      <link>http://localhost:1313/posts/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A0%E3%81%A8%E6%90%8D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%B0%97%E5%88%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%9C%E3%81%A0%E3%82%8D%E3%81%86/</link>
+      <pubDate>Mon, 10 Nov 2025 15:13:29 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A0%E3%81%A8%E6%90%8D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%B0%97%E5%88%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%9C%E3%81%A0%E3%82%8D%E3%81%86/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
     <item>
       <title>AI と協働でモデリング業務を半自動化した話</title>
       <link>http://localhost:1313/posts/ai-%E3%81%A8%E5%8D%94%E5%83%8D%E3%81%A7%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E6%A5%AD%E5%8B%99%E3%82%92%E5%8D%8A%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1/</link>
